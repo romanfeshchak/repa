@@ -5,7 +5,7 @@ echo "The activity generator"
 read -p "What is your name? " name
 
 # Create an array of activities
-activity[0]="Football"
+activity[0]="Configure k8s =)"
 activity[1]="Table Tennis"
 activity[2]="8 Ball Pool"
 activity[3]="PS5"
