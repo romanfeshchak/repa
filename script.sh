@@ -9,7 +9,7 @@ activity[0]="Configure k8s =)"
 activity[1]="Table Tennis"
 activity[2]="8 Ball Pool"
 activity[3]="PS5"
-activity[4]="Blackjack"
+activity[4]="Absent"
 
 array_length=${#activity[@]} # Store the length of the array
 index=$(($RANDOM % $array_length)) # Randomly select an index from 0 to array_length
